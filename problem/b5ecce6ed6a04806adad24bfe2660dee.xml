@@ -1,0 +1,14 @@
+<problem display_name="Multiple Choice" markdown="1. The covariance matrix is always&#10;() Square &#10;() Positive Semidefinite&#10;() Positive Definite&#10;() Symmetric&#10;() None of the above.&#10;&#10;For each of the properties you selected, describe what would happen if the covariance matrix does not satisfy that property.">
+<p>1. The covariance matrix is always</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Square</choice>
+    <choice correct="false">Positive Semidefinite</choice>
+    <choice correct="false">Positive Definite</choice>
+    <choice correct="false">Symmetric</choice>
+    <choice correct="false">None of the above.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>For each of the properties you selected, describe what would happen if the covariance matrix does not satisfy that property.</p>
+</problem>
