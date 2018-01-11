@@ -3,23 +3,47 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "CSE20", 
+            "course": "cse20", 
             "name": "IIITH-Pattern_Recognition.jpg", 
-            "org": "IIIT-Hyderabad", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "IIITH-Pattern Recognition.jpg", 
-        "filename": "asset-v1:IIIT-Hyderabad+CSE20+Anytime+type@asset+block@IIITH-Pattern_Recognition.jpg", 
+        "filename": "asset-v1:Virtual-Labs+cse20+Anytime+type@asset+block@IIITH-Pattern_Recognition.jpg", 
         "import_path": "IIITH-Pattern Recognition.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "IIIT-Hyderabad", 
-            "CSE20", 
+            "Virtual-Labs", 
+            "cse20", 
             "thumbnail", 
             "IIITH-Pattern_Recognition.jpg", 
+            null
+        ]
+    }, 
+    "VLSI.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "cse20", 
+            "name": "VLSI.jpg", 
+            "org": "Virtual-Labs", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "VLSI.jpg", 
+        "filename": "asset-v1:Virtual-Labs+cse20+Anytime+type@asset+block@VLSI.jpg", 
+        "import_path": "VLSI.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Virtual-Labs", 
+            "cse20", 
+            "thumbnail", 
+            "VLSI.jpg", 
             null
         ]
     }
